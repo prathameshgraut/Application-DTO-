@@ -8,4 +8,6 @@ import DTO.com.Entity.Payment;
 @Repository
 public interface PaymentRepo extends JpaRepository<Payment, Integer> {
 
+	
+
 }
